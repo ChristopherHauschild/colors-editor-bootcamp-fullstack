@@ -1,4 +1,4 @@
-# Color's Editor :busts_in_silhouette:
+# Color's Editor :art:
 
 Aplicação desenvolvida para o trabalho prático do Módulo 01 do Bootcamp Desenvolvimento Fullstack disponibilizado pelo Instituto de Gestão e Tecnologia da Informação - IGTI. Visando desenvolver as habilidades em JavaScript, HTML e CSS e manipulação do DOM, desenvolveu-se uma aplicação que realiza a alteração de cores em elementos através da seleção dos valores via input's do tipo range.
 As cores seguem o formato RGB.
