@@ -6,7 +6,7 @@ As cores seguem o formato RGB.
 <hr>
 
 <p align="center">
-  <img width="800px" src="https://github.com/ChristopherHauschild/colors-editor-bootcamp-fullstack/blob/master/CE.gif?raw=true"/>
+  <img width="900px" src="https://github.com/ChristopherHauschild/colors-editor-bootcamp-fullstack/blob/master/CE.gif?raw=true"/>
 </p>
 
 ## Linguagens e Tecnologias utilizadas: :computer:
